@@ -12,4 +12,4 @@ other python files for mission3: using almost 7 layers CNN network with classic 
                             or you can downlaod it via the following link: https://www.cs.toronto.edu/~kriz/cifar-100-python.tar.gz
                             the relative address is nearly the same as misson1, or you can use absolute address as you wish.
 
-you can get more information via the following link:
+you can get more information via the following link:https://1drv.ms/b/c/a592289d30608f8a/EUGOyEYgZdJGoZui_rn3qVsBAa67bKwRztXx_0K8ckIYPQ?e=qRPeJO
